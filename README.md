@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hey there 👋
 
-My name is André. I’m a freelancing web developer, creative, and maker of open source projects, living in Malmö, Sweden.
+My name is André. I’m a freelance web developer, creative, and maker of open source projects, based in Malmö, Sweden.
 
 Get in touch with me at hello@andreekeberg.se
